@@ -5,7 +5,7 @@
 2， 下载python send_verification_code.py。
   
 3，在cmd命令行里运行
-   cd python send_verification_code.py所在的文件。
+   cd python send_verification_code.py所在的文件路径。
          记得把手机账号改成你自己的）
    输入  python send_verification_code.py
    回车
