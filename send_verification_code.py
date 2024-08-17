@@ -42,5 +42,5 @@ def send_verification_code(phone):
         print(u'无法解析服务器响应的JSON格式: {}'.format(ve))
 
 # 输入实际的手机号
-phone = "19825225820"  # 这里填写实际的手机号
+phone = "        "  # 这里填写实际的手机号
 send_verification_code(phone)
